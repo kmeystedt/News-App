@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+    <string-array name="articleNames">
+        <item>Bitcoin</item>
+        <item>Top Business</item>
+        <item>TechCrunch</item>
+    </string-array>
+    <string name="connect_error">Unable to connect to newsapi.org</string>
+    <string name="read_error">Unable to read article data</string>
+    <string name="invalid_url">Invalid URL</string>
+</resources>
